@@ -272,6 +272,9 @@
     },
     "_f_zip": {
       "iconPath": "./icons/file_type_archive@2x.png"
+    },
+    "_f_handlebars": {
+      "iconPath": "./icons/file_type_handlebars@2x.png"
     }
   },
   "file": "_file",
@@ -464,7 +467,8 @@
     "bzip2": "_f_archive",
     "xz": "_f_archive",
     "bz2": "_f_archive",
-    "blade.php": "_f_blade"
+    "blade.php": "_f_blade",
+    "hbs": "_f_handlebars"
   },
   "fileNames": {
     "bower.json": "_f_bower",
